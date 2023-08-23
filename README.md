@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natsuo26
-- 👀 I’m interested in ... Machine Learning and AI
-- 🌱 I’m currently learning ... TensorFlow 
-- 💞️ I’m looking to collaborate on ... Machine Learning projects
+- 👀 I’m interested in ... Machine Learning and AI, Web dev
+- 🌱 I’m currently learning ... web technologies
+- 💞️ I’m looking to collaborate on ... any good projects
 - 📫 How to reach me ... abhaydkumar80@gmail.com
 
 <!---
