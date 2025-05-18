@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natsuo26
-- 👀 I’m interested in ... Machine Learning and AI, Web dev
+- 👀 I’m interested in ... Angular, .NET, AI & ML
 - 🌱 I’m currently learning ... web technologies
 - 💞️ I’m looking to collaborate on ... any good projects
 - 📫 How to reach me ... abhaydkumar80@gmail.com
